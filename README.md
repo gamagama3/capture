@@ -1,0 +1,4 @@
+capture
+=======
+
+Automatic screen capture
